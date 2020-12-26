@@ -8,5 +8,5 @@ Keys:
 * 8 flashes all LEDS
 * 9 turns all LEDS on
 * 0 turns all LEDS off
-* # Random LEDs
+* \# Random LEDs
 * * Zoom through all LEDS
