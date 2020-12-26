@@ -9,4 +9,7 @@ Keys:
 * 9 turns all LEDS on
 * 0 turns all LEDS off
 * \# Random LEDs
-* * Zoom through all LEDS
+* \* Zoom through all LEDS
+
+Connect the touchpad to the board and set `rowPins` and `colPins` accordingly.
+Connect the LEDS with a suitable resistor and set `ledPins` as needed.
