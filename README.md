@@ -13,3 +13,5 @@ Keys:
 
 Connect the touchpad to the board and set `rowPins` and `colPins` accordingly.
 Connect the LEDS with a suitable resistor and set `ledPins` as needed.
+
+![house](https://user-images.githubusercontent.com/11662863/103240446-4b9d3900-4948-11eb-9179-942be2226c13.gif)
